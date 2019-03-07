@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {BrowserRouter, Route, Redirect, Switch} from 'react-router-dom';
-import  BasicForm from '/home/shree/reactjs/callback-example/src/pages/basicform.js'
+import  BasicForm from './pages/basicform.js'
 
 const CoreApp = () => (
     <BrowserRouter>
